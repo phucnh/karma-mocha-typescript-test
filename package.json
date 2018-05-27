@@ -1,7 +1,7 @@
 {
-  "name": "karma-headless-chrome-test",
+  "name": "karma-mocha-typescript-test",
   "version": "1.0.0",
-  "description": "Use Karma and Headless Chrome for testing",
+  "description": "Use Karma,Mocha,Chai for testing TypeScript",
   "scripts": {
     "test": "karma start karma.conf.js"
   },
